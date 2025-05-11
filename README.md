@@ -80,3 +80,4 @@ Now, i will demo the code that i write in user:
 You need compiling it "gcc -o 1 ads1115_user.c" -> "sudo ./1"  
 ![image](https://github.com/user-attachments/assets/eb2e3b2a-2dfe-47ea-a03e-10c4e4df8611)  
 You just see the result of analog 1  
+/*To remove the files which made in folder use "make clean in terminal"*/
